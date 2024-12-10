@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ---
 
-## How to run
+## How to run 
 1. Start the Server
 Run the following command to start the server:
 
