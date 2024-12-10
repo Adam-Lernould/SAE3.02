@@ -22,7 +22,7 @@ The server performs the search operations, while the client interacts with the s
 Install the required Python libraries with the following command:
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ## How to run 
