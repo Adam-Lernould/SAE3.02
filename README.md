@@ -29,14 +29,14 @@ pip install -r requirements.txt
 1. Start the Server
 Run the following command to start the server:
 
-python server.py
+`python server.py`
 
 The server will start running and listen for incoming requests from the client.
 
 2. Start the Client
 Run the following command to start the client:
 
-python client.py
+`python client.py`
 
 The client will prompt you to input a keyword. Once entered, it will search across the available files in the data/ directory and display the results in the terminal.
 
