@@ -16,7 +16,7 @@ The server performs the search operations, while the client interacts with the s
 2. Receive context and locations of the keywords found.
 3. Client-server architecture for better modularity and scalability.
 
-[back to top](#readme-top)
+[back to top](#Overview-top)
 
 
 ---
@@ -27,7 +27,7 @@ Install the required Python libraries with the following command:
 pip install -r requirements.txt
 ```
 
-[back to top](#readme-top)
+[back to top](#Overview-top)
 
 ---
 
@@ -46,7 +46,7 @@ Run the following command to start the client:
 
 The client will prompt you to input a keyword. Once entered, it will search across the available files in the data/ directory and display the results in the terminal.
 
-[back to top](#readme-top)
+[back to top](#Overview-top)
 
 
 ---
@@ -55,7 +55,7 @@ The client will prompt you to input a keyword. Once entered, it will search acro
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
-[back to top](#readme-top)
+[back to top](#Overview-top)
 
 ---
 
@@ -65,5 +65,5 @@ Adam Lernould - adam.lernould@gmail.com
 
 Project Link: [https://gitlab.univ-artois.fr/adam_lernould/sae3.02-s3-iut-de-bethune/-/tree/main?ref_type=heads](https://gitlab.univ-artois.fr/adam_lernould/sae3.02-s3-iut-de-bethune/-/tree/main?ref_type=heads)
 
-[back to top](#readme-top)
+[back to top](#Overview-top)
 
