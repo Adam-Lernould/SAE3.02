@@ -1,6 +1,6 @@
 # SAE 3.02: Search Engine for Textual Data
 
-## Overview
+## Overview <a name="Overview-top"></a>
 This project is a Python-based client-server application that allows users to search for keywords in various file formats, such as:
 - Plain text files (`.txt`)
 - HTML files (`.html`)
