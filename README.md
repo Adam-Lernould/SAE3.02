@@ -23,7 +23,9 @@ Install the required Python libraries with the following command:
 ```bash
 pip install -r requirements.txt
 
-## How to Run
+---
+
+## How to run
 1. Start the Server
 Run the following command to start the server:
 
@@ -37,3 +39,5 @@ Run the following command to start the client:
 python client.py
 
 The client will prompt you to input a keyword. Once entered, it will search across the available files in the data/ directory and display the results in the terminal.
+
+---
