@@ -41,3 +41,20 @@ Run the following command to start the client:
 The client will prompt you to input a keyword. Once entered, it will search across the available files in the data/ directory and display the results in the terminal.
 
 ---
+
+## License
+
+Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+
+[back to top](#readme-top)
+
+---
+
+## Contact
+
+Adam Lernould - adam.lernould@gmail.com
+
+Project Link: [https://gitlab.univ-artois.fr/adam_lernould/sae3.02-s3-iut-de-bethune/-/tree/main?ref_type=heads](https://gitlab.univ-artois.fr/adam_lernould/sae3.02-s3-iut-de-bethune/-/tree/main?ref_type=heads)
+
+[back to top](#readme-top)
+
