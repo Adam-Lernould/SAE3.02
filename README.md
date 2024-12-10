@@ -16,6 +16,9 @@ The server performs the search operations, while the client interacts with the s
 2. Receive context and locations of the keywords found.
 3. Client-server architecture for better modularity and scalability.
 
+[back to top](#readme-top)
+
+
 ---
 
 ## Requirements
@@ -23,6 +26,9 @@ Install the required Python libraries with the following command:
 ```bash
 pip install -r requirements.txt
 ```
+
+[back to top](#readme-top)
+
 ---
 
 ## How to run 
@@ -39,6 +45,9 @@ Run the following command to start the client:
 `python client.py`
 
 The client will prompt you to input a keyword. Once entered, it will search across the available files in the data/ directory and display the results in the terminal.
+
+[back to top](#readme-top)
+
 
 ---
 
