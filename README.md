@@ -104,8 +104,6 @@ Place the files you want to search in the respective subfolders within the data/
 
 All server activities and errors are logged in server.log.
 
-[back to top](#Overview-top)
-
 3. Start the Client
 
 - Run the client script to launch the GUI application.
