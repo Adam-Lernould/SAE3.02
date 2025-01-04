@@ -150,25 +150,25 @@ Click the Quit button to exit the application gracefully.
 
 1. Example 1: Search Across All Files.
 
-Search Mode: All Files
-File Types: Select TXT, PDF, HTML, Excel
-Keywords: data AND analysis
-Result: Displays all occurrences where both "data" and "analysis" appear within the selected file types.
+- Search Mode: All Files
+- File Types: Select TXT, PDF, HTML, Excel
+- Keywords: data AND analysis
+- Result: Displays all occurrences where both "data" and "analysis" appear within the selected file types.
 
 2. Example 2: Search for a Specific File.
 
-Search Mode: Specific File
-File Type: Select PDF
-File Selection: Choose report.pdf from data/pdf/
-Keywords: financial OR revenue
-Result: Displays all lines in report.pdf where either "financial" or "revenue" appear.
+- Search Mode: Specific File
+- File Type: Select PDF
+- File Selection: Choose report.pdf from data/pdf/
+- Keywords: financial OR revenue
+- Result: Displays all lines in report.pdf where either "financial" or "revenue" appear.
 
 3. Example 3: Using Regular Expressions.
 
-Search Mode: All Files
-File Types: Select TXT
-Keywords: \berror\b
-Result: Displays all exact matches of the word "error" in .txt files.
+- Search Mode: All Files
+- File Types: Select TXT
+- Keywords: \berror\b
+- Result: Displays all exact matches of the word "error" in .txt files.
 
 [back to top](#Overview-top)
 
